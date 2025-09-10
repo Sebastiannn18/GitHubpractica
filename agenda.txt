@@ -1,2 +1,2 @@
 Contacto: Ana - 123456789
-mami: editando punto 25 en conflicto
+mami: editando punto 25 en main
